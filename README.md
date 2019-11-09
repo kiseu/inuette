@@ -1,3 +1,3 @@
 # inuette
-rpg and pvp 2d game
+2d pvp game
 inuette.xyz
